@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="/s/7DN8tFDq+c4xh25bUpA==">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlight",null,null,null,null,null,[[null,null,null,null,null,null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2]],["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez",null,[null,null,31.6829101,-106.4045673],0],null,null,null,null,null,null,null,null,11,null,[null,"a",null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,[null,null,null,null,0,0,null,null,0,null,null,1,null,null,null,0,null,null,null,1,1],null,null,null,[null,null,null,null,null,2,3,2]],null,null,null,null,null,[12,14,29,37,30,61,70,83]]]]],null,["en_US","bd"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"_mz-Yd3sMMyJrwS974-4Cg",null,null,null,[[[34015.94359457683,-106.4045673,31.6829101],[0,0,0],null,13.10000038146973],null,0,[["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez, Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., Mexico",[31.6829101,-106.4045673],"7841870425520677873"],"Courtyard by Marriott Ciudad Juarez",["Mision De Los Lagos 9020 Colonia","Partido Iglesias","32688 Cd Juárez, Chih., Mexico"],4.599999904632568,"649 reviews","https://search.google.com/local/reviews?placeid=ChIJe1md6ZBd54YR8SPNn5rr02w\u0026q=Courtyard+by+Marriott+Ciudad+Juarez\u0026hl=en\u0026gl=BD",null,"+52 656 257 6300",null,null,null,["https://www.marriott.com/hotels/travel/cjscy-courtyard-ciudad-juarez/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2\u0026y_source=1_OTY1ODY4Mi03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D","marriott.com",null,null,",AOvVaw3L3KlOBaowl8DsVl1QErs9,,0ahUKEwjd44vVx-j1AhXMxIsKHb33A6cQ61gIFSgQ,"],"Hotel","Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., Mexico",null,null,null,null,null,["https://search.google.com/local/reviews?placeid=ChIJe1md6ZBd54YR8SPNn5rr02w\u0026q=Courtyard+by+Marriott+Ciudad+Juarez\u0026hl=en\u0026gl=BD","649 reviews",[["//lh3.googleusercontent.com/a-/AOh14GgSjjkDZ2vApAE_lYbtVQ5NdM-myhB0IyBR0Mk0=s40-k-cc-mo","\"The food was great, we ordered Pasta Alfredo and Salmon.\""],["//lh3.googleusercontent.com/a/AATXAJzOGhKOCxRCEFmAB2yjgb3wAGbKoy9D7jDNxWQI=s40-k-cc-mo","\"The staff is snobby, the food, beverage, and rooms are way over price.\""],["//lh3.googleusercontent.com/a/AATXAJwHbZASOYlxmxg9dmdtXxH9Ym8qe8S_YNfh7ss=s40-k-cc-mo","\"The room was a great size with a nice desk and office chair.\""]],"Warmly decorated quarters in a relaxed hotel offering a restaurant, a bar \u0026 a fitness room.",1,null,null,1],null,null,null,1,null,null,null,"ChIJe1md6ZBd54YR8SPNn5rr02w",null,null,"0ahUKEwjd44vVx-j1AhXMxIsKHb33A6cQ8BcIAygB","Courtyard By Marriot Juárez",null,["tel:+526562576300"],null,null,null,1,["0ahUKEwjd44vVx-j1AhXMxIsKHb33A6cQqtMBCA4oCg",["853MMHMW+55"],["MHMW+55 Ciudad Juárez, Chihuahua, Mexico"],2]]],null,0,[null,null,null,null,null,null,null,null,null,[0,0]],0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/47/7a/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=en_US&amp;region=bd&amp;callback=onApiLoad" nonce="/s/7DN8tFDq+c4xh25bUpA==" async defer></script>
+  </body>
+</html>
